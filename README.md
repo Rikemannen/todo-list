@@ -24,7 +24,7 @@ cd todo-list
 3. Run it!
 
 ```bash
-python main.py -h
+python list.py -h
 ```
 
 ## How to use
