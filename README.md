@@ -21,7 +21,13 @@ git clone https://github.com/Rikemannen/todo-list
 cd todo-list
 ```
 
-3. Run it!
+3. Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run it!
 
 ```bash
 python list.py -h
