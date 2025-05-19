@@ -12,7 +12,7 @@ To get the program on your computer, you:
 1. Clone the repo
 
 ```bash
-git clone github.com/Rikemannen/todo-list
+git clone https://github.com/Rikemannen/todo-list
 ```
 
 2. Move to the directory:
