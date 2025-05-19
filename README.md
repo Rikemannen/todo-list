@@ -77,3 +77,4 @@ Thanks for supporting! :D
 ## License
 
 Do whatever you wish, I do not care.
+(The repo has the unlicense-license)
