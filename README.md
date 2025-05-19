@@ -74,6 +74,6 @@ Sure, contributions are welcome!
 
 Thanks for supporting! :D
 
-# License
+## License
 
 Do whatever you wish, I do not care.
