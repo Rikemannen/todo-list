@@ -73,3 +73,7 @@ Sure, contributions are welcome!
 6. Open a pull request!
 
 Thanks for supporting! :D
+
+# License
+
+Do whatever you wish, I do not care.
