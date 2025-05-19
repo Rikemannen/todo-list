@@ -1,7 +1,9 @@
 # CLI ToDo List
 
 ## Introduction
-A neat little todo list for your cli, made with python!
+A neat little todo list for your cli, made with python! You can add, list, remove and clear your tasks!
+
+I mainly made this to learn about git and github!
 
 ## Installation
 
