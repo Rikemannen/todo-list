@@ -1,4 +1,4 @@
-### CLI ToDo List
+# CLI ToDo List
 
 ## Introduction
 A neat little todo list for your cli, made with python!
